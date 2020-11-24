@@ -1,6 +1,4 @@
-local Event = {
-
-}
+local Event = {}
 local events = {}
 
 --产生一个新的事件
